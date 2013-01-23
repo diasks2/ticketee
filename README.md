@@ -1,2 +1,2 @@
-**Rails 3 in Action**
+**Rails 3 in Action**  
 Ticketing Application
